@@ -2,7 +2,7 @@
 
 This project is only a sample. (typescript only)
 
-## Requirements 
+## Running the App 
 
 Procedure 1: This typescript file will create a javascript file at runtime with the same name. To run any typescript file there are a few ways:
 
